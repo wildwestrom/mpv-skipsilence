@@ -1,0 +1,9 @@
+{
+	"$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+	"Lua.diagnostics.globals": [
+		"mp"
+	],
+	"Lua.workspace.library": [
+		"/home/main/code/community/mpv-types-lua"
+	]
+}
